@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60b7b53f-fd51-4757-ad80-c851b6551b86" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/AgenticAIPython.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.agent.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.edit.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Galaxy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics4.py" afterDir="false" />
-    </list>
+    <list default="true" id="60b7b53f-fd51-4757-ad80-c851b6551b86" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +32,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.basics1.executor": "Run",
+    "Python.basics4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
