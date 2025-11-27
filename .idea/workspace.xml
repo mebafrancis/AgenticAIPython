@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60b7b53f-fd51-4757-ad80-c851b6551b86" name="Changes" comment="" />
+    <list default="true" id="60b7b53f-fd51-4757-ad80-c851b6551b86" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/SelectorChat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebSurferAutomation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +36,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.WebSurferAutomation.executor": "Run",
     "Python.basics1.executor": "Run",
     "Python.basics4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
